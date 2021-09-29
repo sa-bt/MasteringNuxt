@@ -1,4 +1,5 @@
 export { default as Item } from '../..\\components\\Item.vue'
+export { default as Post } from '../..\\components\\Post.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

@@ -1,5 +1,8 @@
 {
   "Item": {
     "description": "Auto imported from components/Item.vue"
+  },
+  "Post": {
+    "description": "Auto imported from components/Post.vue"
   }
 }
