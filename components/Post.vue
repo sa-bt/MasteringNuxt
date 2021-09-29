@@ -1,6 +1,6 @@
 <template>
     <div style="padding: 10px; margin: 10px;font-weight: bolder;background-color: orange">
-        <NuxtLink :to="`/posts/${post.id}`" >
+        <NuxtLink :to="`/posts/${post.id}`"  >
             {{post.title}}
         </NuxtLink>
         <br>
