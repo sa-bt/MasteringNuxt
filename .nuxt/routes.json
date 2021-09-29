@@ -1,5 +1,12 @@
 [
   {
+    "name": "posts-id",
+    "path": "/posts/:id?",
+    "component": "C:\\\\xampp\\\\htdocs\\\\MastringNuxt\\\\pages\\\\posts\\\\_id.vue",
+    "chunkName": "pages/posts/_id",
+    "_name": "_44d1c17d"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "C:\\\\xampp\\\\htdocs\\\\MastringNuxt\\\\pages\\\\index.vue",
