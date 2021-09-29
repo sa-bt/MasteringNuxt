@@ -11,6 +11,16 @@
 
     export default {
         name: "index",
+        head(){
+          return{
+              title:'HomePage',
+              meta:[{
+                  name:'description',
+                  content:'This is a homepage',
+                  hid:'description'
+              }]
+          }
+        },
         data() {
             return {
                 photos: photos
