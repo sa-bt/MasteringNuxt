@@ -1,9 +1,16 @@
 <template>
-  <div class="container alert alert-primary">
-Hello 
-
-<div class="btn btn-success">Success</div>
-    <div class="btn btn-danger">Danger</div>
-    <div class="btn btn-warning">Warning</div></div>
+  <div>
+<Navbar/>
+<div class="container">
+  <h1>Welcome to Restaurantly</h1>
+  <a href="/restaurants">Go to restaurants</a>
+</div>
+  </div>
 </template>
+<style scoped>
+.container{
+  text-align: center;
+  margin-top: 5rem;
+}
+</style>
 
