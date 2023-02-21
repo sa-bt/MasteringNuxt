@@ -2,7 +2,7 @@
     <div>
   <Navbar/>
   <div class="container">
-    <h1>Welcome</h1>
+    <RestaurantTable/>
   </div>
     </div>
   </template>
