@@ -1,17 +1,14 @@
 <template>
-    <div>
-  <Navbar/>
-  <div class="container">
-    <h1>Welcome to Restaurantly</h1>
-    <a href="/restaurants">Go to restaurants</a>
-  </div>
+  <div>
+    <div class="container">
+      <h1>Welcome to Restaurantly</h1>
+      <a href="/restaurants">Go to restaurants</a>
     </div>
-  </template>
-  <style scoped>
-  .container{
-    text-align: center;
-    margin-top: 5rem;
-  }
-  </style>
-  
-  
+  </div>
+</template>
+<style scoped>
+.container {
+  text-align: center;
+  margin-top: 5rem;
+}
+</style>

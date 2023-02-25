@@ -1,10 +1,11 @@
 <template>
+  <NuxtLayout name="custom">
     <div>
-      <Navbar />
       <div class="container">
         <RestaurantTable />
       </div>
     </div>
+    </NuxtLayout>
   </template>
   <style scoped>
   .container {
